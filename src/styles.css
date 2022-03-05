@@ -5,7 +5,7 @@ html, body{
 
 app-menu{
     position: fixed;
-    top: 20px;
-    left: 20px;
+    top: 10px;
+    left: 10px;
     z-index: 9999999;
 }
